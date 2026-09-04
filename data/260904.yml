@@ -7,7 +7,7 @@ about:
   head: 55d3c9a
   archived: false
   latestVersion: mystmd@1.10.1
-  collectedAt: 2026-09-04T19:32:21Z
+  collectedAt: 2026-09-04T20:57:42Z
 timeline:
   created: 2020-07-21
   lastCommit: 2026-09-03
@@ -89,5 +89,93 @@ total:
   openIssue: 793
   commit: 3991
 ---
+path: /home/runner/.x-repo/github.com/jupyter-book/mystmd
+collectedAt: 2026-09-04T20:57:45Z
+loc:
+  TypeScript:
+    code: 70797
+    comments: 5714
+    blanks: 3605
+    files: 634
+  Yaml:
+    code: 38318
+    comments: 339
+    blanks: 503
+    files: 236
+  Json:
+    code: 14585
+    comments: 0
+    blanks: 0
+    files: 156
+  JavaScript:
+    code: 1038
+    comments: 164
+    blanks: 88
+    files: 13
+  Xml:
+    code: 871
+    comments: 0
+    blanks: 0
+    files: 3
+  Tex:
+    code: 850
+    comments: 136
+    blanks: 312
+    files: 31
+  Svg:
+    code: 304
+    comments: 3
+    blanks: 2
+    files: 11
+  Python:
+    code: 251
+    comments: 19
+    blanks: 65
+    files: 5
+  Css:
+    code: 169
+    comments: 1
+    blanks: 15
+    files: 3
+  Html:
+    code: 132
+    comments: 0
+    blanks: 17
+    files: 5
+  Toml:
+    code: 71
+    comments: 9
+    blanks: 11
+    files: 3
+  Nix:
+    code: 41
+    comments: 1
+    blanks: 0
+    files: 1
+  Jupyter:
+    code: 39
+    comments: 56
+    blanks: 18
+    files: 3
+  Makefile:
+    code: 20
+    comments: 1
+    blanks: 6
+    files: 1
+  Markdown:
+    code: 0
+    comments: 27092
+    blanks: 11906
+    files: 418
+  Text:
+    code: 0
+    comments: 17
+    blanks: 0
+    files: 8
+total:
+  code: 129257
+  comments: 33823
+  blanks: 16668
+  files: 1531
 ---
 
