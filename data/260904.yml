@@ -1,0 +1,65 @@
+about:
+  description: Command line tools for working with MyST Markdown.
+  license: MIT
+  homepage: https://mystmd.org/guide
+  head: 55d3c9a
+  archived: false
+  latestVersion: mystmd@1.10.1
+  collectedAt: 2026-09-04T04:28:01Z
+timeline:
+  created: 2020-07-21
+  lastCommit: 2026-09-03
+  lastRelease: 2026-06-05
+popularity:
+  star: 519
+  watcher: 13
+  fork: 175
+  release: 118
+  contributor: 88
+  pullRequest: 134
+  issue: 1376
+language:
+  TypeScript: 2494532
+  Jupyter Notebook: 101502
+  HTML: 55288
+  TeX: 43094
+  JavaScript: 16783
+  Typst: 12537
+  Python: 5259
+  CSS: 2761
+  Nix: 963
+  Makefile: 757
+totalLine: 2733476
+recent:
+  last30d:
+    since: 2026-08-05
+    release: 0
+    mergedPR: 4
+    openPR: 10
+    closedIssue: 2
+    openIssue: 10
+    commit: 6
+  last90d:
+    since: 2026-06-06
+    release: 0
+    mergedPR: 32
+    openPR: 19
+    closedIssue: 9
+    openIssue: 47
+    commit: 36
+  last180d:
+    since: 2026-03-08
+    release: 5
+    mergedPR: 93
+    openPR: 25
+    closedIssue: 37
+    openIssue: 97
+    commit: 105
+  last360d:
+    since: 2025-09-09
+    release: 16
+    mergedPR: 244
+    openPR: 31
+    closedIssue: 117
+    openIssue: 260
+    commit: 268
