@@ -5,7 +5,7 @@ about:
   head: 55d3c9a
   archived: false
   latestVersion: "mystmd@1.10.1"
-  collectedAt: 2026-09-07T05:56:29Z
+  collectedAt: 2026-09-07T18:33:11Z
 timeline:
   created: 2020-07-21
   lastCommit: 2026-09-03
@@ -88,7 +88,7 @@ total:
   commit: 3991
 ---
 path: /home/runner/.x-repo/github.com/jupyter-book/mystmd
-collectedAt: 2026-09-07T05:56:36Z
+collectedAt: 2026-09-07T18:33:17Z
 loc:
   TypeScript:
     code: 70797
@@ -179,7 +179,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:56:37+00:00
+  collectedAt: 2026-09-07T18:33:19+00:00
   platform:
     darwin/arm64:
       name:  null
