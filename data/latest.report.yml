@@ -7,7 +7,7 @@ about:
   latestVersion: "mystmd@1.10.1"
   latestRelease: "mystmd@1.10.1"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T06:06:53Z
+  collectedAt: 2026-09-09T20:25:31Z
 timeline:
   created: 2020-07-21
   lastCommit: 2026-09-03
@@ -17,7 +17,7 @@ timeline:
 popularity:
   star: 519
   watcher: 13
-  fork: 175
+  fork: 176
   release: 118
   contributor: 88
   pullRequest: 1479
@@ -92,7 +92,7 @@ total:
   commit: 3991
 ---
 path: /home/runner/.x-repo/github.com/jupyter-book/mystmd
-collectedAt: 2026-09-09T06:06:59Z
+collectedAt: 2026-09-09T20:25:39Z
 loc:
   TypeScript:
     code: 70797
