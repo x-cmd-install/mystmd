@@ -1,0 +1,79 @@
+- repo: aur
+  srcname: mystmd
+  binname: mystmd
+  visiblename: mystmd
+  version: 1.9.1
+  origversion: 1.9.1-1
+  status: newest
+  summary: Command line tools for working with MyST Markdown
+  maintainers:
+    - carlosal1015@aur
+    - pabryan@aur
+  licenses:
+    - MIT
+- repo: nix_stable_24_05
+  srcname: mystmd
+  visiblename: mystmd
+  version: 1.2.0
+  origversion: null
+  status: outdated
+  summary: Command line tools for working with MyST Markdown
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - MIT
+- repo: nix_stable_24_11
+  srcname: mystmd
+  visiblename: mystmd
+  version: 1.3.8
+  origversion: null
+  status: outdated
+  summary: Command line tools for working with MyST Markdown
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - MIT
+- repo: nix_stable_25_05
+  srcname: mystmd
+  visiblename: mystmd
+  version: 1.3.18
+  origversion: null
+  status: outdated
+  summary: Command line tools for working with MyST Markdown
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: mystmd
+  visiblename: mystmd
+  version: 1.3.18
+  origversion: null
+  status: outdated
+  summary: Command line tools for working with MyST Markdown
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - MIT
+- repo: nix_stable_26_05
+  srcname: mystmd
+  visiblename: mystmd
+  version: 1.9.1
+  origversion: null
+  status: newest
+  summary: Command line tools for working with MyST Markdown
+  maintainers:
+    - tbutter@gmail.com
+  licenses:
+    - MIT
+- repo: nix_unstable
+  srcname: mystmd
+  visiblename: mystmd
+  version: 1.9.1
+  origversion: null
+  status: newest
+  summary: Command line tools for working with MyST Markdown
+  maintainers:
+    - tbutter@gmail.com
+  licenses:
+    - MIT
