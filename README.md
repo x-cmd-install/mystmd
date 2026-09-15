@@ -47,12 +47,12 @@ Total: **127,487** lines of code across **1042** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-15 | 0 | 4 | 10 | 2 | 8 | 5 |
-| last60d | 2026-07-16 | 0 | 10 | 10 | 4 | 17 | 16 |
-| 90d | 2026-06-16 | 0 | 22 | 17 | 7 | 37 | 23 |
-| last180d | 2026-03-18 | 5 | 86 | 25 | 32 | 89 | 90 |
-| 360d | 2025-09-19 | 16 | 244 | 31 | 114 | 258 | 266 |
-| last720d | 2024-09-24 | 35 | 502 | 42 | 253 | 491 | 542 |
+| 30d | 2026-08-16 | 0 | 4 | 10 | 2 | 8 | 5 |
+| last60d | 2026-07-17 | 0 | 9 | 10 | 2 | 16 | 16 |
+| 90d | 2026-06-17 | 0 | 21 | 17 | 6 | 34 | 23 |
+| last180d | 2026-03-19 | 5 | 85 | 25 | 32 | 86 | 90 |
+| 360d | 2025-09-20 | 16 | 244 | 31 | 114 | 258 | 266 |
+| last720d | 2024-09-25 | 34 | 502 | 42 | 253 | 491 | 536 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for mystmd lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260914.yml` · 2026-09-14T06:22:49Z._
+_Snapshot: `data/card/260915.yml` · 2026-09-15T06:41:12Z._
