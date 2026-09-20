@@ -4,7 +4,7 @@
 
 Command line tools for working with MyST Markdown.
 
-![mystmd](https://repo.x-cmd.io/mystmd.svg)
+[![x-cmd/install — mystmd Code Quality Monitoring Repo Card](https://repo.x-cmd.io/mystmd.svg)](https://x-cmd.com/install/mystmd)
 
 ## Install
 
@@ -41,18 +41,18 @@ Total: **127,724** lines of code across **1042** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 118 · **Merged PRs**: 1351 · **Open PRs**: 45 · **Closed issues**: 584 · **Open issues**: 796 · **Commits**: 3997
+- **Releases**: 118 · **Merged PRs**: 1351 · **Open PRs**: 46 · **Closed issues**: 584 · **Open issues**: 796 · **Commits**: 3997
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 8 | 3 | 1 | 7 | 10 |
-| last60d | 2026-07-20 | 0 | 14 | 7 | 2 | 17 | 21 |
-| 90d | 2026-06-20 | 0 | 25 | 13 | 7 | 33 | 28 |
-| last180d | 2026-03-22 | 5 | 90 | 22 | 33 | 85 | 95 |
-| 360d | 2025-09-23 | 16 | 248 | 28 | 115 | 260 | 271 |
-| last720d | 2024-09-28 | 34 | 504 | 39 | 252 | 491 | 538 |
+| 30d | 2026-08-21 | 0 | 8 | 4 | 1 | 6 | 10 |
+| last60d | 2026-07-22 | 0 | 13 | 8 | 2 | 16 | 21 |
+| 90d | 2026-06-22 | 0 | 25 | 14 | 7 | 32 | 28 |
+| last180d | 2026-03-24 | 5 | 88 | 23 | 32 | 85 | 95 |
+| 360d | 2025-09-25 | 16 | 248 | 29 | 113 | 259 | 271 |
+| last720d | 2024-09-30 | 34 | 503 | 40 | 251 | 488 | 538 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for mystmd lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T06:18:45Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T06:21:17Z._
