@@ -4,7 +4,7 @@
 
 Command line tools for working with MyST Markdown.
 
-[![x-cmd/install — mystmd Code Quality Monitoring Repo Card](https://repo.x-cmd.io/mystmd.svg?lang=zh)](https://x-cmd.com/install/mystmd)
+[![x-cmd/install — mystmd Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/mystmd.svg?lang=zh)](https://x-cmd.com/install/mystmd)
 
 ## 安装
 
@@ -47,12 +47,12 @@ x install mystmd
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 1 | 10 | 6 | 1 | 4 | 12 |
-| last60d | 2026-07-24 | 1 | 15 | 10 | 2 | 16 | 23 |
-| 90d | 2026-06-24 | 1 | 26 | 15 | 7 | 31 | 31 |
-| last180d | 2026-03-26 | 6 | 89 | 24 | 33 | 82 | 94 |
-| 360d | 2025-09-27 | 17 | 250 | 30 | 114 | 256 | 272 |
-| last720d | 2024-10-02 | 35 | 505 | 41 | 252 | 487 | 540 |
+| 30d | 2026-08-24 | 1 | 10 | 6 | 1 | 4 | 12 |
+| last60d | 2026-07-25 | 1 | 15 | 10 | 2 | 16 | 23 |
+| 90d | 2026-06-25 | 1 | 25 | 15 | 7 | 31 | 31 |
+| last180d | 2026-03-27 | 6 | 89 | 24 | 33 | 82 | 94 |
+| 360d | 2025-09-28 | 17 | 250 | 30 | 114 | 255 | 272 |
+| last720d | 2024-10-03 | 35 | 503 | 41 | 251 | 486 | 539 |
 
 ## 改进这些数据
 
@@ -63,4 +63,4 @@ mystmd 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T06:26:32Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T06:31:13Z._
