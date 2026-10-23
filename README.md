@@ -47,12 +47,20 @@ Total: **128,067** lines of code across **1043** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 7 | 13 | 1 | 17 | 12 |
-| last60d | 2026-08-23 | 1 | 17 | 19 | 2 | 21 | 26 |
-| 90d | 2026-07-24 | 1 | 22 | 23 | 4 | 32 | 37 |
-| last180d | 2026-04-25 | 5 | 84 | 31 | 24 | 87 | 95 |
-| 360d | 2025-10-27 | 15 | 232 | 33 | 103 | 242 | 260 |
-| last720d | 2024-11-01 | 32 | 489 | 43 | 246 | 485 | 520 |
+| 30d | 2026-09-23 | 0 | 7 | 13 | 1 | 17 | 12 |
+| last60d | 2026-08-24 | 1 | 17 | 19 | 2 | 21 | 26 |
+| 90d | 2026-07-25 | 1 | 22 | 23 | 4 | 32 | 37 |
+| last180d | 2026-04-26 | 5 | 84 | 31 | 24 | 87 | 95 |
+| 360d | 2025-10-28 | 15 | 232 | 33 | 103 | 241 | 260 |
+| last720d | 2024-11-02 | 32 | 489 | 43 | 245 | 484 | 520 |
+
+## Distribution status
+
+Reported by **7** distros on [repology.org](https://repology.org/project/mystmd). **1** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Nix unstable | `1.9.1` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -63,4 +71,4 @@ Install metadata for mystmd lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T05:46:51Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T05:52:03Z._
