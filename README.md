@@ -37,7 +37,7 @@ Total: **128,065** lines of code across **1043** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 530 · **Forks**: 184 · **Open issues**: 1,404 · **Contributors**: 93
+- **Stars**: 530 · **Forks**: 183 · **Open issues**: 1,404 · **Contributors**: 93
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **128,065** lines of code across **1043** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-30 | 0 | 8 | 12 | 2 | 18 | 15 |
-| last60d | 2026-08-31 | 1 | 22 | 19 | 4 | 25 | 30 |
-| 90d | 2026-08-01 | 1 | 25 | 24 | 6 | 36 | 39 |
-| last180d | 2026-05-03 | 4 | 83 | 32 | 25 | 85 | 91 |
-| 360d | 2025-11-04 | 14 | 233 | 34 | 104 | 238 | 258 |
-| last720d | 2024-11-09 | 28 | 489 | 44 | 242 | 486 | 522 |
+| 30d | 2026-10-01 | 0 | 7 | 9 | 2 | 17 | 15 |
+| last60d | 2026-09-01 | 1 | 19 | 17 | 3 | 25 | 30 |
+| 90d | 2026-08-02 | 1 | 25 | 24 | 6 | 36 | 39 |
+| last180d | 2026-05-04 | 4 | 82 | 32 | 25 | 84 | 91 |
+| 360d | 2025-11-05 | 14 | 231 | 34 | 103 | 237 | 258 |
+| last720d | 2024-11-10 | 28 | 489 | 44 | 241 | 485 | 522 |
 
 ## Distribution status
 
@@ -71,4 +71,4 @@ Install metadata for mystmd lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261030.yml` · 2026-10-30T06:53:22Z._
+_Snapshot: `data/card/261031.yml` · 2026-10-31T06:50:12Z._
