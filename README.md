@@ -14,11 +14,11 @@ x install mystmd
 
 ## Code insight
 
-Total: **128,065** lines of code across **1043** files in the top 5 languages.
+Total: **128,074** lines of code across **1043** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 71,218 | 5,786 | 3,620 | 634 |
+| TypeScript | 71,227 | 5,789 | 3,621 | 634 |
 | Yaml | 38,483 | 344 | 506 | 237 |
 | Json | 14,578 | 0 | 0 | 156 |
 | JavaScript | 1,038 | 164 | 88 | 13 |
@@ -33,26 +33,26 @@ Total: **128,065** lines of code across **1043** files in the top 5 languages.
 ## Release
 
 - **Latest**: `mystmd@1.12.0` (2026-11-03)
-- **Last commit**: 2026-10-26
+- **Last commit**: 2026-11-03
 
 ## Popularity
 
-- **Stars**: 531 · **Forks**: 184 · **Open issues**: 1,406 · **Contributors**: 93
+- **Stars**: 531 · **Forks**: 185 · **Open issues**: 1,406 · **Contributors**: 93
 
 ## Totals (cumulative)
 
-- **Releases**: 120 · **Merged PRs**: 1372 · **Open PRs**: 51 · **Closed issues**: 591 · **Open issues**: 815 · **Commits**: 4018
+- **Releases**: 120 · **Merged PRs**: 1373 · **Open PRs**: 53 · **Closed issues**: 592 · **Open issues**: 814 · **Commits**: 4019
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 1 | 7 | 12 | 2 | 18 | 15 |
-| last60d | 2026-09-04 | 2 | 17 | 21 | 3 | 27 | 27 |
-| 90d | 2026-08-05 | 2 | 24 | 28 | 6 | 36 | 31 |
-| last180d | 2026-05-07 | 5 | 81 | 36 | 24 | 85 | 90 |
-| 360d | 2025-11-08 | 15 | 226 | 38 | 103 | 235 | 249 |
-| last720d | 2024-11-13 | 29 | 486 | 48 | 238 | 486 | 521 |
+| 30d | 2026-10-05 | 1 | 7 | 15 | 2 | 16 | 16 |
+| last60d | 2026-09-05 | 2 | 17 | 24 | 3 | 27 | 28 |
+| 90d | 2026-08-06 | 2 | 24 | 31 | 6 | 36 | 32 |
+| last180d | 2026-05-08 | 5 | 82 | 38 | 24 | 85 | 91 |
+| 360d | 2025-11-09 | 15 | 225 | 40 | 103 | 234 | 250 |
+| last720d | 2024-11-14 | 29 | 487 | 50 | 238 | 485 | 519 |
 
 ## Distribution status
 
@@ -71,4 +71,4 @@ Install metadata for mystmd lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261103.yml` · 2026-11-03T08:13:53Z._
+_Snapshot: `data/card/261104.yml` · 2026-11-04T07:38:33Z._
