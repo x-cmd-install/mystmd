@@ -2,8 +2,8 @@
   srcname: mystmd
   binname: mystmd
   visiblename: mystmd
-  version: 1.11.0
-  origversion: 1.11.0-1
+  version: 1.13.0
+  origversion: 1.13.0-1
   status: newest
   summary: Command line tools for working with MyST Markdown
   maintainers:
@@ -69,7 +69,7 @@
 - repo: nix_unstable
   srcname: mystmd
   visiblename: mystmd
-  version: 1.9.1
+  version: 1.12.0
   origversion: null
   status: outdated
   summary: Command line tools for working with MyST Markdown
