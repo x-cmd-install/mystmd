@@ -33,26 +33,26 @@ Total: **176,194** lines of code across **1089** files in the top 5 languages.
 ## Release
 
 - **Latest**: `mystmd@1.14.0` (2026-11-24)
-- **Last commit**: 2026-11-24
+- **Last commit**: 2026-11-25
 
 ## Popularity
 
-- **Stars**: 538 · **Forks**: 191 · **Open issues**: 1,413 · **Contributors**: 97
+- **Stars**: 538 · **Forks**: 191 · **Open issues**: 1,415 · **Contributors**: 97
 
 ## Totals (cumulative)
 
-- **Releases**: 122 · **Merged PRs**: 1399 · **Open PRs**: 53 · **Closed issues**: 603 · **Open issues**: 810 · **Commits**: 4050
+- **Releases**: 122 · **Merged PRs**: 1399 · **Open PRs**: 53 · **Closed issues**: 603 · **Open issues**: 812 · **Commits**: 4051
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 3 | 23 | 13 | 4 | 8 | 32 |
-| last60d | 2026-09-26 | 3 | 35 | 23 | 8 | 24 | 47 |
-| 90d | 2026-08-27 | 4 | 48 | 28 | 10 | 28 | 62 |
-| last180d | 2026-05-29 | 6 | 90 | 38 | 23 | 78 | 105 |
-| 360d | 2025-11-30 | 15 | 223 | 40 | 96 | 198 | 241 |
-| last720d | 2024-12-05 | 31 | 506 | 51 | 235 | 459 | 543 |
+| 30d | 2026-10-27 | 3 | 23 | 13 | 4 | 8 | 33 |
+| last60d | 2026-09-27 | 3 | 35 | 23 | 8 | 26 | 48 |
+| 90d | 2026-08-28 | 4 | 48 | 28 | 10 | 30 | 63 |
+| last180d | 2026-05-30 | 6 | 90 | 38 | 23 | 80 | 106 |
+| 360d | 2025-12-01 | 15 | 216 | 40 | 93 | 196 | 242 |
+| last720d | 2024-12-06 | 31 | 506 | 51 | 235 | 461 | 544 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for mystmd lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T09:21:06Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T10:09:39Z._
