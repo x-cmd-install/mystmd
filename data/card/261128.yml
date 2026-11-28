@@ -1,0 +1,184 @@
+about:
+  description: "Command line tools for working with MyST Markdown."
+  license: MIT
+  homepage: https://mystmd.org/guide
+  head: 53b8387
+  archived: false
+  latestVersion: "mystmd@1.14.0"
+  latestRelease: "mystmd@1.14.0"
+  latestPrerelease: ""
+  collectedAt: 2026-11-28T09:34:53Z
+timeline:
+  created: 2020-07-21
+  lastCommit: 2026-11-26
+  lastVersion: 2026-11-24
+  lastRelease: 2026-11-24
+  lastPrerelease: 
+popularity:
+  star: 538
+  watcher: 13
+  fork: 192
+  release: 122
+  contributor: 98
+  pullRequest: 1552
+  issue: 1415
+language:
+  TypeScript: 2541973
+  Jupyter Notebook: 101502
+  HTML: 81788
+  TeX: 43094
+  JavaScript: 20471
+  Typst: 12537
+  Python: 5259
+  CSS: 2769
+  Nix: 963
+  Makefile: 757
+totalBytes: 2811113
+recent:
+  last30d:
+    since: 2026-10-29
+    release: 3
+    mergedPR: 24
+    openPR: 13
+    closedIssue: 4
+    openIssue: 7
+    commit: 34
+  last60d:
+    since: 2026-09-29
+    release: 3
+    mergedPR: 35
+    openPR: 21
+    closedIssue: 8
+    openIssue: 23
+    commit: 49
+  last90d:
+    since: 2026-08-30
+    release: 4
+    mergedPR: 49
+    openPR: 28
+    closedIssue: 10
+    openIssue: 30
+    commit: 64
+  last180d:
+    since: 2026-06-01
+    release: 6
+    mergedPR: 89
+    openPR: 38
+    closedIssue: 23
+    openIssue: 78
+    commit: 107
+  last360d:
+    since: 2025-12-03
+    release: 14
+    mergedPR: 210
+    openPR: 40
+    closedIssue: 89
+    openIssue: 193
+    commit: 243
+  last720d:
+    since: 2024-12-08
+    release: 31
+    mergedPR: 506
+    openPR: 51
+    closedIssue: 233
+    openIssue: 460
+    commit: 544
+total:
+  release: 122
+  mergedPR: 1400
+  openPR: 53
+  closedIssue: 603
+  openIssue: 812
+  commit: 4052
+---
+path: /home/runner/.x-repo/github.com/jupyter-book/mystmd
+collectedAt: 2026-11-28T09:34:59Z
+loc:
+  TypeScript:
+    code: 71774
+    comments: 5873
+    blanks: 3651
+    files: 640
+  JavaScript:
+    code: 46123
+    comments: 200
+    blanks: 123
+    files: 50
+  Yaml:
+    code: 38607
+    comments: 344
+    blanks: 503
+    files: 237
+  Json:
+    code: 15893
+    comments: 0
+    blanks: 0
+    files: 157
+  Html:
+    code: 1193
+    comments: 0
+    blanks: 17
+    files: 5
+  Xml:
+    code: 871
+    comments: 0
+    blanks: 0
+    files: 3
+  Tex:
+    code: 850
+    comments: 136
+    blanks: 312
+    files: 31
+  Svg:
+    code: 304
+    comments: 3
+    blanks: 2
+    files: 11
+  Python:
+    code: 251
+    comments: 19
+    blanks: 65
+    files: 5
+  Css:
+    code: 171
+    comments: 1
+    blanks: 15
+    files: 3
+  Toml:
+    code: 60
+    comments: 9
+    blanks: 11
+    files: 3
+  Nix:
+    code: 41
+    comments: 1
+    blanks: 0
+    files: 1
+  Jupyter:
+    code: 39
+    comments: 56
+    blanks: 18
+    files: 3
+  Makefile:
+    code: 20
+    comments: 1
+    blanks: 6
+    files: 1
+  Markdown:
+    code: 0
+    comments: 28768
+    blanks: 12527
+    files: 422
+  Text:
+    code: 0
+    comments: 17
+    blanks: 0
+    files: 8
+total:
+  code: 178660
+  comments: 35700
+  blanks: 17374
+  files: 1580
+---
+
+---
